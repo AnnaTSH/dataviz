@@ -6,6 +6,6 @@ Welcome to the GitHub repository for my Data Visualisation projects using Tablea
 
 ![image](https://github.com/AnnaTSH/dataviz/blob/main/SalesDashboard1.jpg)
 
-2. Interactive Fleet Management Dashboard in Power BI embedded on github pages website: [annatsh.github.io/dashboard](https://annatsh.github.io/dashboard/). Full project description is [here](https://github.com/AnnaTSH/navixy-data-project/blob/main/4/README.md)
+2. Interactive Fleet Management Dashboard in Power BI embedded on github pages website: [annatsh.github.io/dashboard](https://annatsh.github.io/dashboard/). See the full project description [here](https://github.com/AnnaTSH/navixy-data-project/blob/main/4/README.md)
 
 ![image](https://github.com/AnnaTSH/navixy-data-project/blob/main/4/dashboard_full.jpg)
